@@ -2,7 +2,7 @@
 
 <p align="center"><img src="https://i.imgur.com/ge61nXL.png" alt="RedEyed RPG" /></p>
 
-<p align="center">🔥 RedEyed RPG produces content and software for a variety of Table Top Role Playing Game systems 🔥</p>
+<p align="center">🔐 RedEyed RPG Secure Storage 🔐</p>
 <h3 align="center">⦗RedEyed Vault⦘ | ⦗<a href="https://github.com/RedEyed-RPG">RedEyed RPG</a>⦘ | ⦗<a href="https://github.com/RedEyed-Archive">RedEyed Archive</a>⦘</h3>
 
 <!--
