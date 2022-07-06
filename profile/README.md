@@ -1,6 +1,6 @@
 ## Welcome to
 
-<p align="center"><img src="https://i.imgur.com/ge61nXL.png" alt="RedEyed RPG" /></p>
+<p align="center"><img src="https://aever.net/images/brand/banner/RedEyedRPG-960-Red.png" alt="RedEyed RPG" /></p>
 
 <p align="center">🔐 RedEyed RPG Secure Storage 🔐</p>
 <h3 align="center">⦗RedEyed Vault⦘ | ⦗<a href="https://github.com/RedEyed-RPG">RedEyed RPG</a>⦘ | ⦗<a href="https://github.com/RedEyed-Archive">RedEyed Archive</a>⦘</h3>
